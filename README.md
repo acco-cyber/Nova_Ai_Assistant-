@@ -30,7 +30,6 @@
 - [Testing](#-testing)
 - [Deployment](#-deployment)
 - [Troubleshooting](#-troubleshooting)
-- [Roadmap](#-roadmap)
 - [Contributing](#-contributing)
 - [License](#-license)
 - [Acknowledgments](#-acknowledgments)
